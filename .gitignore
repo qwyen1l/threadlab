@@ -4,3 +4,10 @@ bin/
 .project
 .DS_Store
 *.class
+
+# added to ignore old proj
+CarFrame.java
+CarQueue.java
+CarPanel.java
+Car.java
+README.md
